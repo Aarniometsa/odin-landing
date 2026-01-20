@@ -64,6 +64,12 @@ li {
 
 }
 
+.first-box-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 .first-box-right img {
     width: 100%;
 }
