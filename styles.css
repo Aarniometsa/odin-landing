@@ -103,7 +103,7 @@ h3 {
 .second-box {
     display: flex;
     flex-direction: column;
-    padding: 0 15% 50px;
+    padding: 0 15% 36px 15%;
 }
 
 .card-box {
