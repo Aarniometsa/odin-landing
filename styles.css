@@ -89,7 +89,8 @@ h2, p {
     color: #e5e7eb;
     padding: 5px 20px;
     border-radius: 5px;
-    width: 100px;
+    width: 120px;
+    font-weight: 700;
 }
 
 h3 {
@@ -144,4 +145,40 @@ h3 {
     font-size: 20px;
     text-align: right;
     padding-top: 24px;
+}
+
+.footer {
+    background-color: #3882f6;
+    margin: 100px 15%;
+    border-radius: 5px;
+    color: #e5e7eb;
+  
+    
+}
+
+.footer-box {
+    display: flex;
+}
+
+#footer-button {
+    border-style: solid;
+    border-color: #e5e7eb;
+    color: #e5e7eb;
+}
+
+.footer-box-right {
+    align-self: center;
+    padding: 35px 65px;
+}
+
+.footer-box-left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-left: 65px;
+    justify-content: center;
+}
+
+h4 {
+    margin: 0;
 }
