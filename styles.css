@@ -126,3 +126,22 @@ h3 {
     width: 200px;
     height: 200px;
 }
+
+.third-box {
+    background-color: #e5e7eb;
+    padding: 100px 25%;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-name {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: right;
+    padding-top: 24px;
+}
